@@ -1,0 +1,16 @@
+
+        p{ color: rgb(164, 0, 164);}
+        h1{ color: rgb(103, 31, 73); }
+        li{ color: rgb(123, 48, 86);}
+        .titre{font-size: 25px;}
+        .levage {
+                display: inline-block; 
+                vertical-align: middle;
+                font-size: 30px;
+                padding-left: 30px;
+              }
+        .associe{
+                vertical-align: middle;
+                padding-left: 30px;
+        }
+        
