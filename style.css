@@ -1,16 +1,14 @@
-
-        p{ color: rgb(164, 0, 164);}
-        h1{ color: rgb(103, 31, 73); }
-        li{ color: rgb(123, 48, 86);}
-        .titre{font-size: 25px;}
-        .levage {
-                display: inline-block; 
-                vertical-align: middle;
-                font-size: 30px;
-                padding-left: 30px;
-              }
-        .associe{
-                vertical-align: middle;
-                padding-left: 30px;
-        }
-        
+h1{color: rgb(106, 198, 106); text-align: center; font-size: 75px;}
+body{background-image: url("space.JPG") ; background-size: cover; color: rgb(106, 198, 106);  }
+h2{color: rgb(106, 198, 106);}
+.style1{font-size: 20px;}
+.levage {
+    display: inline-block; 
+    vertical-align: middle;
+    font-size: 30px;
+    padding-left: 30px;
+  }
+.associe{
+    vertical-align: middle;
+    padding-left: 30px;
+}
