@@ -1,6 +1,6 @@
 h1{color: rgb(106, 198, 106); text-align: center; font-size: 75px; text-shadow: 5px 5px 5px black;}
 .titre{text-decoration: underline;}
-.fondPage1{background-image: url("bloc.webp") ; background-size:cover; color: rgb(6, 6, 6); }
+.fondPage1{background-image: url("bloc.png") ; background-size:cover; color: rgb(6, 6, 6); }
 .fondPage2{background-image: url("bloc2.png") ; background-size:cover; color: rgb(6, 6, 6); }
 h2{color: rgb(255, 255, 255); text-shadow: 5px 5px 5px black}
 .style1{font-size: 25px;color: white; text-shadow: 5px 5px 5px black}
