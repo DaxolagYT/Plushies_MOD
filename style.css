@@ -1,7 +1,9 @@
-h1{color: rgb(106, 198, 106); text-align: center; font-size: 75px;}
-body{background-image: url("space.JPG") ; background-size: cover; color: rgb(106, 198, 106);  }
-h2{color: rgb(106, 198, 106);}
-.style1{font-size: 20px;}
+h1{color: rgb(106, 198, 106); text-align: center; font-size: 75px; text-shadow: 5px 5px 5px black;}
+.titre{text-decoration: underline;}
+.fondPage1{background-image: url("bloc.webp") ; background-size:cover; color: rgb(6, 6, 6); }
+.fondPage2{background-image: url("bloc2.png") ; background-size:cover; color: rgb(6, 6, 6); }
+h2{color: rgb(255, 255, 255); text-shadow: 5px 5px 5px black}
+.style1{font-size: 25px;color: white; text-shadow: 5px 5px 5px black}
 .levage {
     display: inline-block; 
     vertical-align: middle;
@@ -12,3 +14,5 @@ h2{color: rgb(106, 198, 106);}
     vertical-align: middle;
     padding-left: 30px;
 }
+.cadre{background-color: black; margin: 10px; border: 10px; padding : 10px; display: inline-block;}
+.descente{vertical-align: bottom;}
